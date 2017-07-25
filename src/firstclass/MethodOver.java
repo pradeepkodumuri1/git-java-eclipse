@@ -7,7 +7,7 @@ public class MethodOver {
         float d;	
         Explainn a= new Explainn();
         A=10;
-        B=11;
+        B=12;
         radius= 5;
         d= 3.14f;
         System.out.println("Area of rectangle" + a.area(A,B));
